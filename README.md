@@ -11,7 +11,7 @@
 ✉️ &nbsp;To contact me, You can ping me an email at nihalvarma100@gmail.com! I'll try to respond as soon as I can.
 <!--📄 &nbsp;Please have a look at my [Résumé](resume link here) for more details about me. I'm open to feedback and suggestions!-->
 
-<img alt="Coding" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align="right"/>
+<img height =180 alt="Coding" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 <!--shields.io for badges-->
@@ -28,8 +28,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nihalvarma1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nihalvarma1&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nihalvarma1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nihalvarma1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
