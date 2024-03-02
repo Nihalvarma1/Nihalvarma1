@@ -28,8 +28,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nihalvarma1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nihalvarma1&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nihalvarma1&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nihalvarma1&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
 
