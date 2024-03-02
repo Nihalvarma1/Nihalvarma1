@@ -36,7 +36,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="www.linkedin.com/in/nihalvarma"><img src="https://img.shields.io/badge/Nihal%20Varma%20Balerao-black?style=flat&logo=Linkedin&logoColor=white&color=%230077B5"/></a>
+<a href="https://linkedin.com/in/nihalvarma"><img src="https://img.shields.io/badge/Nihal%20Varma%20Balerao-black?style=flat&logo=Linkedin&logoColor=white&color=%230077B5"/></a>
 <a href="mailto:nihalvarma100@gmail.com"><img src="https://img.shields.io/badge/nihalvarma100%40gmail.com-white?style=flat&logo=Gmail&logoColor=white&color=%23D14836"/></a>
 <a href="https://github.com/Nihalvarma1"><img src="https://img.shields.io/badge/Nihalvarma-blue?style=flat&logo=github&logoColor=blue&color=grey"/></a>
 <a href="https://www.instagram.com/nihalvarma1"><img src="https://img.shields.io/badge/%40nihalvarma1-white?style=flat&logo=Instagram&logoColor=white&color=%23E4405F"/></a>
